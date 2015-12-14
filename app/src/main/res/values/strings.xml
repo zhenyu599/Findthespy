@@ -2,5 +2,5 @@
     <string name="app_name">findthespy</string>
     <string name="newgame_button">Create a New Game</string>
     <string name="joingame_button">Join a Game</string>
-    <string name="joingame_tips">(If you have a room No.)</string>
+    <string name="joingame_tips">If you have a room No.</string>
 </resources>
